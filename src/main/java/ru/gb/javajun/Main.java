@@ -15,7 +15,6 @@ import ru.gb.javajun.entity.PostComment;
  * <p>
  * Написать стандартные CRUD-методы: создание, загрузка, удаление.
  * <p>
-
  */
 
 
